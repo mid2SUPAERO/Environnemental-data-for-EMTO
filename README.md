@@ -15,5 +15,7 @@ In this data base there are information about CO2 footprint (production, recycli
 # References
 
 [1] Duriez, E., Morlier, J., Charlotte, M., & Azzaro-Pantel, C. (2021). A well connected, locally-oriented and efficient multi-scale topology optimization (EMTO) strategy. Structural and Multidisciplinary Optimization, 1-24.
+
 [2] Informations provenant du Logiciel Ansys EduPack. 2022
+
 [3] Maëlle DUGUIN Léa MEIH-Sarah ZAYE Emilie BRUNO, Julie CAVAILLES. Impression 3d de materiaux legers et eco-conçus pour des applications en mobilite. 2021
