@@ -1,6 +1,6 @@
-# Ecological EMTO 
+# Environnemental data for EMTO (EEMTO)
 
-The ecological EMTO aims to find the most ecological way to produce a work-piece which is to say that producing impact on environment is the lowest between proposed processes.
+The Environnemental data for EMTO (EEMTO) aims to find the most ecological way to produce a work-piece which is to say that producing impact on environment is the lowest between proposed processes.
 
 The base of EEMTO was Efficiency Multiscale Topology Optimisation (EMTO) by E.Duriez.  You can find initial code here: https://github.com/mid2SUPAERO/EMTO.
 
